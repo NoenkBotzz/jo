@@ -12504,6 +12504,11 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": 100
+    },
+    "6282150627036@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
     }
   },
   "chats": {
@@ -14144,6 +14149,18 @@
       "antilink": false
     },
     "15154444615@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363026141146167@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363023863558822@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6288295565089@s.whatsapp.net": {
       "mute": false,
       "antilink": false
     }
